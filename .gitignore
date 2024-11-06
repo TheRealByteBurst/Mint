@@ -1,0 +1,12 @@
+## Visual Studio 2022 C++ Project
+
+# Build folders
+Build/
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.vcxproj*
+*.sln
